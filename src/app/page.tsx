@@ -41,9 +41,9 @@ export default function Home() {
 						Gas 3kg. Pilihan tepat untuk kebutuhan rumah tangga!
 					</h2>
 					<p className="md:w-[89%]">
-						"Gas 3kg, solusi praktis dan hemat untuk kebutuhan memasak sehari-hari. Didesain khusus untuk rumah tangga,
+						Gas 3kg, solusi praktis dan hemat untuk kebutuhan memasak sehari-hari. Didesain khusus untuk rumah tangga,
 						gas ini memberikan performa maksimal dengan harga terjangkau. Aman, mudah digunakan, dan siap menemani
-						setiap momen memasak Anda. Pilihan cerdas untuk keluarga!"
+						setiap momen memasak Anda. Pilihan cerdas untuk keluarga
 					</p>
 					<div className="flex  gap-3 mt-4">
 						<button className="px-3 py-2.5 text-white  bg-[#323232] rounded-md border-none  ">Get Started</button>
