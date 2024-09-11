@@ -5,7 +5,6 @@ import Navbar from "../components/navbar";
 import CardType from "../components/card";
 import Footer from "@/components/footer";
 import Link from "next/link";
-import { TrendingUp } from "lucide-react";
 import { CartesianGrid, Line, LineChart, XAxis } from "recharts";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { ChartConfig, ChartContainer, ChartTooltip, ChartTooltipContent } from "@/components/ui/chart";
@@ -102,9 +101,6 @@ export default function Home() {
 					</CardContent>
 				</div>
 				<CardFooter className="flex-col items-start gap-2 text-sm">
-					{/* <div className="flex gap-2 font-medium leading-none">
-						Trending up by 5.2% this month <TrendingUp className="h-4 w-4" />
-					</div> */}
 					<div className="leading-none text-muted-foreground">Showing total sales for the last 8 months</div>
 				</CardFooter>
 			</Card>
