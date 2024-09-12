@@ -9,8 +9,8 @@ function Footer() {
 				<div className="px-3 py-1.5 col-span-2 md:col-span-1">
 					<h1 className="font-semibold text-xl mb-3">Home</h1>
 					<p>
-						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente alias dolores eos, inventore cupiditate
-						error. Nesciunt quibusdam totam libero impedit.
+						Pilih Elpiji, Pilih Kualitas Terbaik untuk Keluarga Anda. Elpiji Andalan, Solusi Masak Tanpa Repot. Elpiji
+						Hemat, Nyaman untuk Setiap Rumah. Gas Elpiji Energi Aman untuk Setiap Momen Memasak
 					</p>
 				</div>
 				<div className="px-3 py-1.5 flex flex-col gap-1 ">
