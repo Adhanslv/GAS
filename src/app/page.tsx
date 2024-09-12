@@ -8,7 +8,6 @@ import Link from "next/link";
 import { CartesianGrid, Line, LineChart, XAxis } from "recharts";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { ChartConfig, ChartContainer, ChartTooltip, ChartTooltipContent } from "@/components/ui/chart";
-export const description = "A line chart with dots";
 const chartData = [
 	{ month: "January", lots: 1680, mobile: 80 },
 	{ month: "February", lots: 1330, mobile: 200 },
